@@ -1,16 +1,31 @@
-## Hi there 👋
+## 👋 Hi there，我是 lin634
 
-<!--
-**lin634/lin634** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎯 关于我
+计算机专业在校生，平时喜欢写代码，折腾各类技术demo。
+爱好敲代码、看技术资料，乐于和别人交流编程踩坑经验。
 
-Here are some ideas to get you started:
+### 💻 技能与实践
+**已掌握**
+- C / C++ 基础编程
+- 数据结构：链表、树、排序查找等算法
+- 计算机网络基础原理
+- 会Git，能够使用GitHub管理代码
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**感兴趣方向**
+后端开发、系统底层、大模型应用
+
+**希望学习**
+深入C++工程开发、网络编程、系统设计、Agent相关开发
+
+### 📝 自我评估
+能够独立完成课程实验与小demo；项目实战经验偏少，复杂系统开发能力有待提升。遇到问题愿意查资料调试，有持续学习的习惯。
+
+### 🚀 未来三年规划
+目标：考研，深耕计算机方向
+理由：夯实专业基础，提升技术实力，为后续软件开发工作打好底子。
+1. 第一年：巩固专业课，刷算法，做课程项目，开始考研复习
+2. 第二年：增加项目实践，持续刷题，全力备考研究生
+3. 第三年：参加考研，入学后继续深耕感兴趣的技术方向
+
+### 📫 欢迎交流
+欢迎一起讨论C/C++、网络、后端相关问题。
